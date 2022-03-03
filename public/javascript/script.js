@@ -16,5 +16,5 @@ function toggleMemes () {
     }
 }
 
-bigTest()
-toggleMemes()
+// bigTest()
+// toggleMemes()
