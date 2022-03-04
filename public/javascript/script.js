@@ -17,4 +17,4 @@ function toggleMemes () {
 }
 
 bigTest()
-// toggleMemes()
+toggleMemes()
