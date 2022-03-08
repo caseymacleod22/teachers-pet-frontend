@@ -1,4 +1,6 @@
 let largeMemes;
+let supplies = [pens, pencils, paper, notebook, textbook]
+
 
 function bigTest () {
     if(largeMemes === true) {
@@ -14,6 +16,10 @@ function toggleMemes () {
     } else {
         console.log('no memes today b?')
     }
+}
+
+function testLog () {
+    console.log(supplies)
 }
 
 bigTest()
