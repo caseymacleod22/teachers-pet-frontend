@@ -24,3 +24,4 @@ function testLog () {
 
 bigTest()
 toggleMemes()
+testLog()
