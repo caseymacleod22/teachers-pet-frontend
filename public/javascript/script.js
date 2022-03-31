@@ -22,6 +22,7 @@ function testLog () {
     console.log(supplies)
 }
 
+
 bigTest()
 toggleMemes()
 testLog()
